@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "web dev",
+			"path": "../../../../web dev"
+		},
+		{
+			"name": "foodHaven",
+			"path": "../../Documents/foodHaven/foodHaven"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "foodHaven"
+	}
+}
